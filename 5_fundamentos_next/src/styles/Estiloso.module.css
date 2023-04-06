@@ -1,0 +1,11 @@
+.roxo{
+  height: 100%;
+  background-color: #670BBD;
+  color: #FFF;
+}
+
+.roxo h1{
+  text-align: center;
+  padding: 2em;
+  margin: 0;
+}
