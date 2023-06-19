@@ -1,5 +1,5 @@
 import React from "react";
-import If from "../operador/if";
+import If from "../operator/if";
 
 export default (props) => (
   <If test={!props.hide}>
